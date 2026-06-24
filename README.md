@@ -423,14 +423,7 @@ The RGCN model serves as the final deployed model, while stacking models provide
 ## Demo
 
 👉 Streamlit App:  
-https://adverse-drug-reactionpredictionsystem-zcapb6bza78xtaqriz96nv.streamlit.app/
-
----
-
-## 👤 Author
-
-**Srinadh Doppalapudi**  
-MS in Data Analytics  
+https://adverse-drug-reactionpredictionsystem-zcapb6bza78xtaqriz96nv.streamlit.app/  
 
 ---
 
