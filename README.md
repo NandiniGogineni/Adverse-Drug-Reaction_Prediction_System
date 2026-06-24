@@ -211,13 +211,6 @@ https://adverse-drug-reactionpredictionsystem-zcapb6bza78xtaqriz96nv.streamlit.a
 
 ---
 
-## 👤 Author
-
-**Srinadh Doppalapudi**  
-MS in Data Analytics  
-
----
-
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub!
