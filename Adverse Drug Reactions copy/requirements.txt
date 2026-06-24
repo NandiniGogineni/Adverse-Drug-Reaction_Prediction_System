@@ -1,8 +1,0 @@
-streamlit
-pandas
-numpy
-joblib
-plotly
-torch
-torch-geometric
-scikit-learn
